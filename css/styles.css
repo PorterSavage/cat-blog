@@ -26,3 +26,11 @@ body{
   background-color: grey;
   color: red;
 }
+
+/*.highlight {
+  background-color: yellow;
+}*/
+
+.highlightTwo {
+  background-color: purple;
+}
